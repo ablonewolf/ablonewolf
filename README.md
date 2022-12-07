@@ -5,7 +5,7 @@
 
 :wave: Hi there, My name is Arka Bhuiyan.😀 I'm 25 years old, I'm a self-taught Software Engineer and Cyber Security Enthusiastic.
 I've profound knowledge in Linux Terminal, Java, JavaScript, Python and Software Design Patterns with Software Development. 
-I have completed undergraduate in CSE from University of Dhaka, Bangladesh. 
+I have completed my Bachelors in CSE from the Department of Computer Science and Engineering of University of Dhaka, Bangladesh. 
 I'm interested in doing research on Cyber Security, Cryptography, Machine Learnin and Data Related Problem. 
 I love to work with new technologies and playing with Open Source Tools and Security Related Stuff.🤖
 Moreover, I am a Software Engineer in BJIT Group.
