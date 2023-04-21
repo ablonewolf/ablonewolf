@@ -7,7 +7,9 @@ I've profound knowledge in Linux Terminal, Java, JavaScript, Python and Software
 I have completed my Bachelors in CSE from the Department of Computer Science and Engineering of University of Dhaka, Bangladesh. 
 I'm interested in doing research on Cyber Security, Cryptography, Machine Learnin and Data Related Problem. 
 I love to work with new technologies and playing with Open Source Tools and Security Related Stuff.🤖
-Moreover, I am a Software Engineer in BJIT Group.
+Currently I am working as a software engineer in BJIT Limited.
+
+During my free time, I often take part in type racing and watch blogs related to Linux and software development. I usually never confine learning within any specific domain; rather I prefer to be open about any technology. That's why I have enrolled myself in various online courses of Udemy and Coursera and have completed some of them. For me, enhancing my skill set and keeping my learning curve is crucial.
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ablonewolf&theme=Cyberpunk&show_icons=true" alt="ablonewolf" />
