@@ -8,7 +8,8 @@ I've profound knowledge in Java, Linux commandline, JavaScript, Python, C++, Bac
 I have completed my Bachelors in CSE from the Department of Computer Science and Engineering of University of Dhaka, Bangladesh. 
 I'm interested in doing research on Cyber Security, Cryptography, Machine Learnin and Data Related Problem. 
 I love to work with new technologies and playing with Open Source Tools and Security Related Stuff.🤖
-Currently I am working as a software engineer for full-stack web application development in Technonext. Before that, I was working in the same designation in BJIT Limited for one year.
+
+Currently I am working as a Software Engineer for Full-stack Web Application Development in Technonext. Prior to working here, I held the position of Software Engineer for Web Application Development in BJIT Limited for one year. Throughout my time as a Software Engineer, I have gained moderate level industry experience over JavaEE and Spring Framework. I also possess decent industry expertise in Javascript, Jquery, Bootstrap, Responsive Web Design and React.
 
 During my free time, I often take part in type racing and watch blogs related to Linux and software development. In addition, I solve problems on online judge, mostly on Leetcode. I usually never confine learning within any specific domain; rather I prefer to be open about any technology. That's why I have enrolled myself in various online courses of Udemy and Coursera and have completed some of them. For me, enhancing my skill set and keeping my learning curve is crucial.
 
