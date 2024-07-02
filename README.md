@@ -3,15 +3,17 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arkabhuiyancsedu@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ablonewolf99/) <img src="https://komarev.com/ghpvc/?username=ablonewolf" alt="arka bhuiyan" />
 
-:wave: Hi there, My name is Arka Bhuiyan.😀 I'm a self-taught Software Engineer and Cyber Security Enthusiastic.
-I've profound knowledge in Java, Linux commandline, JavaScript, Python, C++, Backend Technologies, Git and Software Design Patterns with Software Development. 
-I have completed my Bachelors in CSE from the Department of Computer Science and Engineering of University of Dhaka, Bangladesh. 
-I'm interested in doing research on Cyber Security, Cryptography, Machine Learnin and Data Related Problem. 
-I love to work with new technologies and playing with Open Source Tools and Security Related Stuff.🤖
+:wave: Hi there, my name is Arka Bhuiyan.😀 I'm a self-taught Software Engineer and Cybersecurity enthusiast with profound knowledge in Java, Linux command line, JavaScript, Python, C++, Backend Technologies, Git, and Software Design Patterns.
 
-Currently I am working as a Software Engineer for Full-stack Web Application Development in Technonext. Prior to working here, I held the position of Software Engineer for Web Application Development in BJIT Limited for one year. Throughout my time as a Software Engineer, I have gained moderate level industry experience over JavaEE and Spring Framework. I also possess decent industry expertise in Javascript, Jquery, Bootstrap, Responsive Web Design and React.
+I hold a Bachelor's degree in Computer Science and Engineering from the University of Dhaka, Bangladesh. My interests include researching Software Engineering, Cyber Security, Cryptography, Machine Learning, and Data-related problems.
 
-During my free time, I often take part in type racing and watch blogs related to Linux and software development. In addition, I solve problems on online judge, mostly on Leetcode. I usually never confine learning within any specific domain; rather I prefer to be open about any technology. That's why I have enrolled myself in various online courses of Udemy and Coursera and have completed some of them. For me, enhancing my skill set and keeping my learning curve is crucial.
+I enjoy working with new technologies, exploring open-source tools, and diving into security-related topics.🤖
+
+I am currently a Software Engineer specializing in Full-stack Web Application Development at BRAC IT Services, with a focus on Back-end development. Before this, I worked as a Software Engineer at TechnoNext Limited and BJIT Limited, each for about a year, where I developed web applications.
+
+I have gained solid industry experience in JavaEE and the Spring Framework, and I am proficient in JavaScript, jQuery, Bootstrap, Responsive Web Design, and React.
+
+In my free time, I enjoy type racing, watching blogs related to Linux and software development, and solving problems on LeetCode. I am passionate about continuous learning and have completed various online courses on Udemy and Coursera to broaden my technical skills. For me, enhancing my skill set and maintaining a steep learning curve is crucial.
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ablonewolf&theme=Cyberpunk&show_icons=true" alt="ablonewolf" />
