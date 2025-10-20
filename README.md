@@ -18,7 +18,6 @@ I have gained solid industry experience in JavaEE and the Spring Framework, and 
 In my free time, I enjoy type racing, watching blogs related to Linux and software development, and solving problems on LeetCode. I am passionate about continuous learning and have completed various online courses on Udemy and Coursera to broaden my technical skills. For me, enhancing my skill set and maintaining a steep learning curve is crucial.
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ablonewolf&theme=Cyberpunk&show_icons=true" alt="ablonewolf" />
 <a href="https://github.com/ablonewolf"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ablonewolf&layout=compact&theme=Cyberpunk" />
 </a>
 <a href="https://data.typeracer.com/pit/profile?user=arkacsedu&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=arkacsedu" border="0" alt="TypeRacer.com scorecard for user arkacsedu"/></a>
