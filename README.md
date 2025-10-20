@@ -20,5 +20,7 @@ In my free time, I enjoy type racing, watching blogs related to Linux and softwa
 <p align="left">
 <a href="https://github.com/ablonewolf"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ablonewolf&layout=compact&theme=Cyberpunk" />
 </a>
-<a href="https://data.typeracer.com/pit/profile?user=arkacsedu&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=arkacsedu" border="0" alt="TypeRacer.com scorecard for user arkacsedu"/></a>
+</p>
+<p align="left>
+  <a href="https://data.typeracer.com/pit/profile?user=arkacsedu&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=arkacsedu" border="0" alt="TypeRacer.com scorecard for user arkacsedu"/></a>
 </p>
